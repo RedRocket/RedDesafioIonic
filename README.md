@@ -15,7 +15,7 @@ Nós iremos avaliar:
 
 Isso quer dizer que além do próprio código esperamos extras e que você deve se preocupar também com a legibilidade e para ter um projeto coerente.
 
-- Seu prazo é até 14/01/2017. 
+- Seu prazo é até 27/01/2017. 
 - Poste com o nome de DesafioRedIonic-{SeuNome}
 
 Ao finalizar o código você deve enviar um e-mail para redrocket.contrata@gmail.com
