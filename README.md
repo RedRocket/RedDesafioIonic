@@ -4,7 +4,7 @@
 
 Neste projeto será requerido conhecimentos em Ionic 2.
 
-Você deverá desenvolver uma cópia do Tinder.
+Você deverá desenvolver uma cópia do Pedida de Hoje.
 
 Porém seu desafio não reside somente em desenvolver o código e suas funcionalidades.
 
